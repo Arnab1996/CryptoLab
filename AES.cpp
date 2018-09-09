@@ -176,7 +176,7 @@ void print() {
         }
         cout << endl;
 }
-int main() {
+int main() {     cout<<"hi";
         vector<uint> key, plaintext;
         key.push_back(0x2475a2b3);
         key.push_back(0x34755688);
